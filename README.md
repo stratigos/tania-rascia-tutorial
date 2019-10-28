@@ -1,3 +1,9 @@
+# The Tania Rascia React Tutorial
+
+[teh web page](https://www.taniarascia.com/getting-started-with-react/) 🗺🕸
+
+# Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
