@@ -21,7 +21,7 @@ class Form extends Component {
   }
 
   render() {
-    //const { name, job } = this.state
+    const { name, job } = this.state
 
     return (
       <form>
@@ -29,14 +29,14 @@ class Form extends Component {
         <input
           type="text"
           name="name"
-          value={this.state.name}
+          value={name}
           onChange={this.handleChange}
         />
         <label>Job</label>
         <input
           type="text"
           name="job"
-          value={this.state.job}
+          value={job}
           onChange={this.handleChange}
         />
       </form>
